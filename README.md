@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://mugil.netlify.app/)
 <h1 align="center">Hi 👋, I'm Mugilaananthan T.A</h1>
 <h3 align="center">Creating User-Friendly and Responsive Web Applications</h3>
-<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mugil1410&label=Profile%20views&color=0e75b6&style=flat" alt="mugil1410" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Redux,Sass & Figma**
 
-- 👨‍💻 All of my projects are available at [https://mugil.netlify.app/](https://mugil.netlify.app/)
+- 👨‍💻 All of my projects are available at [mugil.netlify.app](https://mugil.netlify.app/)
 
 - 💬 Ask me about **Laravel,Python & MERN**
 
 - 📫 How to reach me **mugilaananthan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_Z90T3iCV5UCegIbiWolU-lCR9ZQt9e5/view?usp=drive_link](https://drive.google.com/file/d/1_Z90T3iCV5UCegIbiWolU-lCR9ZQt9e5/view?usp=drive_link)
+- 📄 Know about my experiences [Link](https://drive.google.com/file/d/1_Z90T3iCV5UCegIbiWolU-lCR9ZQt9e5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
