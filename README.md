@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/3hSqvKn/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)](https://mugil.netlify.app/)
+[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://mugil.netlify.app/)
 <h1 align="center">Hi 👋, I'm Mugilaananthan T.A</h1>
 <h3 align="center">Creating User-Friendly and Responsive Web Applications</h3>
 
